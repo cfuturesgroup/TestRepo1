@@ -1,6 +1,6 @@
 ﻿dddd99999.Language=English,English
 .Options CtrlColorChar=\
-.Options CtrlStartPosChar=^<wrap>
+---.Options CtrlStartPosChar=^<wrap>
 
 @ConfirmationsSettings=ConfirmDlg
 @InterfaceSettings=InterfSettings
